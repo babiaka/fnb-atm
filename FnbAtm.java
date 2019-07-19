@@ -3,6 +3,7 @@ int age;
 String name;
 long phoneNumber;
 String emailAddress;
+String salary
 <<<<<<< HEAD
 String gender;
 public static void main(String[]args){
@@ -16,6 +17,7 @@ System.out.println(" Victor Reddd");
 
 
 void HelloWorld(){
+ 
 }
 }
 >>>>>>> bee257106cfc80adac07bc0a0da9403963154fbf
